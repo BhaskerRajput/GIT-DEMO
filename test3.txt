@@ -1,1 +1,3 @@
 this is a third file.
+contains git merge demo.
+created by developer 2.
